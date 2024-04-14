@@ -9,11 +9,7 @@
 - 그와 관련된 데이터를 분석하고 싶어요! 
 - 금리, 뉴스, 각종 경제지표 등의 데이터를 분석하고 공부하고 있습니다!
 
-### Interest
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+
 
 <div align=center>
 
